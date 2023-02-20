@@ -1,2 +1,2 @@
 # test-Django
-Learn From Havard CS50
+Learn From CS50's Web Programming with Python and JavaScript
